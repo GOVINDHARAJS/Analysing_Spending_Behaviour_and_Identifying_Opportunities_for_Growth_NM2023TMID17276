@@ -3,3 +3,8 @@ Wholesaling or distributing is the sale of goods to retailer to industrial, comm
 
 
 Tableau Public Dashboard link :  https://public.tableau.com/views/wholesalercustomeranalysis_16957804143430/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
+Tableau Public Stroy link : https://public.tableau.com/views/wholesaleprojectstory/Story1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
+
+Demonstration video link:
+https://drive.google.com/file/d/1_CiBlqYR4gsRX4Jk9j2rh1O6iy7UlviF/view?usp=sharing
